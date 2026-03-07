@@ -33,6 +33,10 @@ DEEPSEEK_BASE_URL=https://api.deepseek.com
 DEEPSEEK_MODEL=deepseek-chat
 ```
 
+### запуск
+macOS / Linux: `python3 game.py`
+Windows: `py game.py`
+
 ### контакты:
 * твиттер — https://x.com/mikleshubin
 * почта — mailto:mishaelshubin@gmail.com
