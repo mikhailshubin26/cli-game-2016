@@ -20,3 +20,12 @@ DEEPSEEK_API_KEY=<api>
 DEEPSEEK_BASE_URL=https://api.deepseek.com
 DEEPSEEK_MODEL=deepseek-chat
 ```
+
+### контакты:
+* твиттер — https://x.com/mikleshubin
+* почта — mailto:mishaelshubin@gmail.com
+
+### поддержать
+BTC: bc1qllfd0zxmk45j3x53d5dnu9y0ls7vdx60yyk3u4
+ETH: 0x480468BbB77ef4a4abed20e81656e4CFBcc1C055
+Tether USDT TRC20: 0x480468BbB77ef4a4abed20e81656e4CFBcc1C055
