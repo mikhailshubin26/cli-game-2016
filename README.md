@@ -7,7 +7,7 @@
 ### скачать:
 
 ```commandline
-git clone https://github.com/mikhailshubin26/cli-geopolitic-2016.git
+git clone https://github.com/mikhailshubin26/cli-game-2016.git
 python3 -m venv venv
 source venv/bin/activate
 pip3 install openai python-dotenv
