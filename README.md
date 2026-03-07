@@ -6,7 +6,8 @@
 
 ### скачать:
 
-```commandline (macOS / Linux)
+macOS / Linux:
+```commandline
 git clone https://github.com/mikhailshubin26/cli-game-2016.git
 cd cli-game-2016
 python3 -m venv venv
@@ -14,7 +15,9 @@ source venv/bin/activate
 pip3 install openai python-dotenv
 touch .env
 ```
-```commandline (Windows)
+
+Windows:
+```commandline
 git clone https://github.com/mikhailshubin26/cli-game-2016.git
 cd cli-game-2016
 py -m venv venv
