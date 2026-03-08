@@ -21,7 +21,7 @@ Windows:
 git clone https://github.com/mikhailshubin26/cli-game-2016.git
 cd cli-game-2016
 py -m venv venv
-source venv/Scripts/activate
+venv\Scripts\activate.bat
 pip install openai python-dotenv
 type nul > .env
 ```
